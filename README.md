@@ -1,2 +1,2 @@
 # glapp2
-test de text
+<b>test de text</b>
